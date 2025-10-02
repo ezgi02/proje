@@ -8,7 +8,7 @@
 • API (Render + Swagger): https://backendapi-yowq.onrender.com/swagger
 • AI Servisi (Hugging Face Space):
   - UI:  https://beliz12-sentiment-tr.hf.space
-  - REST: https://beliz12-sentiment-tr.hf.space/api/predict/
+  
 
 Öne çıkanlar:
 • Backend: ASP.NET Core 8, EF Core, SQLite; `POST /api/messages`, `GET /api/messages`; Health: `/health`
